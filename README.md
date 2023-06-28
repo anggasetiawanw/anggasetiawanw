@@ -10,7 +10,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.dart**, **.c**, **.cpp**
 - 💬 Talk to me about anything related to C/C++/ or about Internet of Things and Flutter
-- 👯 We can connect to play some like dota 2
+- 👯 We can connect to play some game like dota 2
 - 📖 I’m currently learning Flutter, Go
 - 🧑‍💻 Tech I work on :
 <p align="center">
