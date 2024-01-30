@@ -11,7 +11,7 @@
 - 💻 I use daily: **.dart**, **.c**, **.cpp**, **.py**, **.ts**
 - 💬 Talk to me about anything related to C/C++/ or about Internet of Things and Flutter
 - 👯 We can connect to play some game like dota 2
-- 📖 I’m currently learning Flutter, Go
+- 📖 I’m currently learning Flutter, TypeScript
 - 🧑‍💻 Tech I work on :
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="80" height="60"/> 
