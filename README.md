@@ -8,7 +8,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm Software Engineering working for a Poultry Tech startup in Indonesia 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.dart**, **.c**, **.cpp**
+- 💻 I use daily: **.dart**, **.c**, **.cpp**, **.py**, **.ts**
 - 💬 Talk to me about anything related to C/C++/ or about Internet of Things and Flutter
 - 👯 We can connect to play some game like dota 2
 - 📖 I’m currently learning Flutter, Go
