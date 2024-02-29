@@ -8,10 +8,10 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm Software Engineering working for a Poultry Tech startup in Indonesia 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.dart**, **.c**, **.cpp**, **.py**, **.ts**
+- 💻 I use daily: **.dart**, **.c**, **.cpp**, **.py**, **.go**
 - 💬 Talk to me about anything related to C/C++/ or about Internet of Things and Flutter
 - 👯 We can connect to play some game like dota 2
-- 📖 I’m currently learning Flutter, TypeScript
+- 📖 I’m currently learning Flutter, Golang
 - 🧑‍💻 Tech I work on :
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="80" height="60"/> 
