@@ -2,12 +2,12 @@
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm Software Engineering working for a Poultry Tech startup in Indonesia 
+- 🏦 I'm a Software Engineering.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.dart**, **.c**, **.cpp**, **.py**, **.go**
-- 💬 Talk to me about anything related to C/C++/ or about Internet of Things and Flutter
+- 💬 Talk to me about anything related to C/C++/ or about Internet of Things, Flutter and Java Springboot
 - 👯 We can connect to play some game like dota 2
-- 📖 I’m currently learning Flutter, Golang
+- 📖 I’m currently learning Flutter, Java Springboot
 - 🧑‍💻 Tech I work on :
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="80" height="60"/> 
@@ -15,6 +15,7 @@
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="mysql" width="45" height="55"/>
 </p>
 
 ---
