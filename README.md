@@ -7,7 +7,7 @@
 - 💻 I use daily: **.dart**, **.c**, **.cpp**, **.py**, **.go**
 - 💬 Talk to me about anything related to C/C++/ or about Internet of Things, Flutter and Java Springboot
 - 👯 We can connect to play some game like dota 2
-- 📖 I’m currently learning Flutter, Java Springboot
+- 📖 I’m currently learning Flutter, Node JS
 - 🧑‍💻 Tech I work on :
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="80" height="60"/> 
@@ -15,7 +15,7 @@
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="ts" width="45" height="55"/>
 </p>
 
 ---
