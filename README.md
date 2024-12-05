@@ -4,7 +4,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Software Engineering.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.dart**, **.c**, **.cpp**, **.py**, **.go**
+- 💻 I use daily: **.dart**, **.c**, **.cpp**, **.py**, **.ts**
 - 💬 Talk to me about anything related to C/C++/ or about Internet of Things, Flutter and JavaScript
 - 👯 We can connect to play some game like dota 2
 - 📖 I’m currently learning Flutter, Node JS
