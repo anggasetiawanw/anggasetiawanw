@@ -9,11 +9,11 @@
 - 👯 We can connect to play some game like dota 2
 - 🧑‍💻 Tech I work on :
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="80" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="80" height="60"/>
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="80" height="60"/> 
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="80" height="60"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="ts" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="ts" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="ts" width="80" height="60"/>
 </p>
